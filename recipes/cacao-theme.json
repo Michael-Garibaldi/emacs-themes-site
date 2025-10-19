@@ -1,0 +1,25 @@
+
+{
+    "name": "cacao-theme",
+    "description": "A light AND dark theme based on an color inversion I did while working in Tech Support. See the source code for the whole story",
+    "remoteSrc": "https:\/\/github.com\/Michael-Garibaldi\/cacao-theme",
+    "localSrc" : ".\/assets\/local-src\/cacao-theme.el",
+    "author" : "KoshVorlon",
+    "largeImgs": [
+	".\/assets\/imgs\/Default.screen.png",
+	".\/assets\/imgs\/tri_screeen.png"
+    ],
+    "tags": [
+	"dark",
+	"light",
+	"cacao",
+	"chocolate",
+	"emacs 24",
+	"org-mode"
+    ],
+
+    "available": true,
+    "smallImg": ".\/assets\/img-small\/tri_screen_mini.png"
+
+}
+
